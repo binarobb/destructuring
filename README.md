@@ -1,2 +1,4 @@
 # destructuring
-Created with CodeSandbox
+
+destructuring complex objects in ES6
+
